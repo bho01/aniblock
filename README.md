@@ -1,4 +1,4 @@
-#AniBlock
+# AniBlock
 
 AniBlock is a future web extension that will block anime websites. It will help you focus and set your life straight you weeb trash.
 
